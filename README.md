@@ -1,3 +1,3 @@
-# Sitevision scripts
+# Sitevision scripts (archived)
 
-Provides scripts and templates used by [Create Sitevision App](https://github.com/sitevision/create-sitevision-app)
+This project has moved to (Sitevision apps)[https://github.com/sitevision/sitevision-apps]
